@@ -60,7 +60,8 @@ To overcome these challenges, the project followed a systematic approach:
 By following this approach, the Java application for video game data management and download was coded with careful consideration of the encountered challenges. The resulting application is robust, functional, and well-structured.
 
 **5. UML Diagram:**
-![]()
+![UML](https://github.com/Farid-Karimi/Steam-Store/assets/118434072/4116bb59-31f2-467f-a842-226abd14bef6)
+
 
 **6. Conclusion:**
 In conclusion, the Java application for video game data management and download successfully achieved its objectives of providing a user-friendly interface for browsing games, enabling secure and efficient game downloads, implementing robust data management, ensuring password security, and optimizing file management. The project faced hardships related to socket programming, database management, password hashing, and file management, which were overcome through diligent research, planning, and adaptation. The implemented approach focused on modular and object-oriented design, thorough testing and debugging, code documentation, code review and refactoring, and continuous learning. The result is a well-coded and feature-rich Java application that enhances the user experience in accessing and downloading video games.
